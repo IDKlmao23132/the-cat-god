@@ -2,9 +2,9 @@
   "name": "the-cat-god",
   "description": "Nope!",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
