@@ -37,7 +37,7 @@ client.on('message', async message => {
 		stop(message, serverQueue);
 		return;
 	} else {
-		message.channel.send('You need to enter a valid command! (Formation: cat!play (URL))')
+		message.channel.send('You need to enter a valid command!')
 	}
 });
 
